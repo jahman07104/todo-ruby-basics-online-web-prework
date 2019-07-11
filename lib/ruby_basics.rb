@@ -23,6 +23,7 @@ phrase = "expert"
 
 end
 
-def pizza_party(pepperoni="cheese")
- #"{pepperoni}"
+def pizza_party(toppping="cheese")
+ puts toppping
+ phrase+topping
 end
