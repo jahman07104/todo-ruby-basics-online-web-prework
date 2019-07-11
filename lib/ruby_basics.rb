@@ -18,8 +18,8 @@ def return_a_value(return_a_value ="Nice")
 p "#{return_a_value}"
 end
 
-def last_evaluated_value(last_evaluated_value=expert)
-p "#{last_evaluated_value}"
+def last_evaluated_value
+phrase = "expert "
 
 end
 
